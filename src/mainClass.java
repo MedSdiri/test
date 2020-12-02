@@ -6,7 +6,5 @@ public class mainClass {
         System.out.println("second code in the first branch");
         System.out.println("third code in the first branch");
         System.out.println("just messing with the firstBranch");
-        System.out.println("now one more line here");
-        System.out.println("very first branch");
     }
 }
